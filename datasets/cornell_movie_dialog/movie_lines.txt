@@ -1,0 +1,847 @@
+L1 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ ﻿Monsieur, vous désirez ?
+L2 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je voudrais trois tranches de jambon blanc.
+L3 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà, avec ceci ?
+L4 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je voudrais du porc... quelque chose de  tendre...
+L5 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, j’ai du filet mignon, regardez comme il est beau.
+L6 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Très bien, alors pour trois personnes, s’il vous plaît.
+L7 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà, il vous fallait autre chose ?
+L8 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, vous avez des côtelettes ?
+L9 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, désolé, mais j’ai du bœuf, de l’entrecôte.
+L10 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tant pis, je vais prendre un beau poulet rôti.
+L11 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un beau poulet rôti...
+L12 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il est à combien ?
+L13 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Quinze euros, monsieur.
+L14 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Très bien.
+L15 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà monsieur. Vous désirez autre chose ?
+L16 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, ce sera tout merci.
+L17 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, trois tranches de jambon blanc, un filet mignon et un poulet rôti, 42 euros  60 monsieur.
+L18 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà.
+L19 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous n’auriez pas la monnaie ?
+L20 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, désolé. C’est tout ce que j’ai.
+L21 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà, merci monsieur. Bonne journée.
+L22 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonne journée, au revoir.
+L23 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Monsieur bonjour.
+L24 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, je voudrais trois croissants au beurre, un pain aux raisins et un pain au chocolat, s’il vous plaît.
+L25 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, ça sera tout ?
+L26 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Qu’est-ce que vous avez comme tartes ?
+L27 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’ai des tartes aux pommes ou des tartes aux fraises.
+L28 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre une tarte aux fraises.
+L29 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui c’est pour combien de personnes ?
+L30 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Pour six personnes.
+L31 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà monsieur. 25 euros cinquante.
+L32 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà.
+L33 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci monsieur, au revoir.
+L34 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, bonne journée.
+L35 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, monsieur.
+L36 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, monsieur, vous désirez ?
+L37 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre deux baguettes et quatre pains au chocolat.
+L38 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà, vous désirez autre chose ?
+L39 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, vous avez des croissants aux amandes ?
+L40 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui monsieur, vous en voulez combien ?
+L41 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Deux, s’il vous plaît.
+L42 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, deux baguettes, quatre pains au chocolat et deux croissants aux amandes. 8 euros 20, s’il vous plaît.
+L43 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà.
+L44 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, monsieur.
+L45 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, monsieur. Au revoir.
+L46 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour monsieur.
+L47 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour. Je voudrais une baguette, s’il vous plaît.
+L48 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà. Ce sera tout ?
+L49 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, mettez-moi aussi deux croissants et un pain au chocolat.
+L50 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, une baguette, deux croissants et un pain au chocolat. Quatre euros cinquante.
+L51 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez.
+L52 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.
+L53 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Au revoir.
+L54 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Monsieur… ce parapluie est à vous ?
+L55 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah… oui, oui, il est à moi. Merci ! Ah, le gâteau d’anniversaire… Excusez-moi, je voudrais aussi une tarte aux fraises pour le 12 juillet. C’est pour un anniversaire.
+L56 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est pour combien de personnes ?
+L57 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Six personnes. La tarte coûte combien ?
+L58 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ 29 euros.
+L59 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ 29 euros ? Je vais réfléchir. Merci, au revoir.
+L60 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Au revoir monsieur.
+L61 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous avez raccompagné Mlle suzuki à l’aéroport hier ? Tout s’est bien passé ?
+L62 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je suis passé la chercher à 17 heures 30. Son avion était prévu à 19h10, mais comme il y avait du retard, elle n’a décollé qu’à 21h.
+L63 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bon, le principal est que tout se soit bien passé.
+L64 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’ai essayé de faire de mon mieux. Je crains que les sorties que je proposais n’étaient pas du tout à son goût.
+L65 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ne vous inquiétez pas, elle m’a parlé de vous et de votre dévouement. Elle était absolument ravie de votre accueil et de votre gentillesse.
+L66 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je suis très flatté.
+L67 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Dorénavant, c’est vous qui accueillerez tous les clients. Vous avez manifestement les compétences linguistiques, les idées et le tact pour mener à bien ce type de mission.
+L68 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Concernant les compétences linguistiques, est-ce qu’il y aurait moyen de prendre des cours d’anglais pour me renforcer en anglais des affaires ?
+L69 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Des cours d’anglais ? Vous les financerez vous-même !  Je vous rappelle que vous aviez indiqué que vous parlez couramment anglais sur votre CV.
+L70 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah, oui, bien sûr.
+L71 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et que vous aviez des «notions de chinois ». Tenez, voici votre nouvelle mission. Monsieur Cheng, notre client chinois arrive demain. Vous savez ce que vous avez à faire...
+L72 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, pas de problème.
+L73 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Sébastien, vous pouvez passer dans mon bureau, s’il vous plaît ?
+L74 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’arrive tout de suite.
+L75 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous vouliez me voir ?
+L76 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, j’ai une mission importante à vous confier.
+L77 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, de quoi s’agit-il ?
+L78 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous savez que notre client japonais doit nous rendre visite la semaine prochaine.
+L79 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, le directeur de Suzuki corporation...
+L80 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Exactement, il ne s’agira pas du directeur en personne mais de son fils, ... Junichiro Suzuki. Et comme je sais que vous parlez japonais, vous allez vous occuper de l’organisation de son séjour.
+L81 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je, je ne parle pas couramment japonais, je connais seulement quelques mots.
+L82 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, et c’est déjà beaucoup. Notre client va apprécier. Il arrive le 15 et repart le 18. C’est très court. Vous avez jusqu’à vendredi pour préparer son séjour.
+L83 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Entendu, je dois l’accompagner pendant ces trois jours ?
+L84 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui ! Je veux qu’il garde un souvenir inoubliable de son séjour à Paris. Alors faites-ça bien ! Je compte sur vous.
+L85 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Entendu, je vous envoie le programme dès qu’il est prêt.
+L86 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien, tu en fais une tête ! Qu’est-ce qui t’arrive ?
+L87 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Madame Bougrab m’a chargé d’accueillir un client important.
+L88 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu parles du directeur de Suzuki Corporation ?
+L89 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, enfin, de son fils... Je dois m’occuper de son séjour. Il arrive lundi.
+L90 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien ! Quel honneur ! Ce n’est pas à moi qu’on demanderait des choses aussi importantes. Tu parles japonais ?
+L91 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un peu, mais pas suffisamment pour tenir une conversation professionnelle.
+L92 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est déjà bien. Tu pourras toujours utiliser l’anglais si ça coince. Et bien, qu’est-ce que tu attends pour te mettre au travail ?
+L93 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est que... je n’ai jamais fait ça moi...Tu pourrais me donner un coup de main ? Je ne sais même pas par quoi commencer.
+L94 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ben, commence par faire la liste de tout ce que tu vas devoir faire durant son séjour. Vérifie toutes les informations relatives à son arrivée : heure d’arrivée, numéro de vol, aéroport. Réserve un hôtel, note toutes les réunions prévues dans l’entreprise, prépare une... deux sorties en fonction de la météo.
+L95 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ De la météo ?
+L96 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ben oui ! tu ne vas pas lui proposer de visiter le Louvre par un temps magnifique ou une promenade sur les Champs-Élysées un jour de pluie
+L97 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je crois que ça va être encore plus compliqué que j’imaginais.
+L98 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, Madame. Je vous apporte le programme pour le séjour de monsieur Suzuki.
+L99 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah, bonjour Sébastien. Alors, vous vous en êtes sorti ?
+L100 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, enfin... j’espère.
+L101 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voyons... alors, arrivée lundi 12h30 par le vol AF275 Charles de Gaule. Taxi jusqu’à l’hôtel... Vous lui avez réservé une chambre au Sofitel ?
+L102 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est au Sofitel Arc de Triomphe.
+L103 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Très bien, et le soir vous lui proposez une promenade sur la Seine en bateau mouche ?
+L104 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En fait, je compte lui demander ce qu’il aimerait faire... Et s’il n’a pas de projet particulier alors je lui proposerai la promenade en bateau mouche.
+L105 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bien. Et le lendemain, visite de l’entreprise...
+L106 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, j’irai le chercher à son hôtel à huit heures le matin.
+L107 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ La réunion commence à neuf heures... Passez le chercher à l’hôtel à huit heures et demie.
+L108 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Entendu.
+L109 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le soir, vous l’accompagnez au Moulin Rouge ?
+L110 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je pense qu’il appréciera.
+L111 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En fait, je n’y suis jamais allée, je crois que je vais venir avec vous...
+L112 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord, je vais tout de suite réserver une place supplémentaire.
+L113 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, je vais lire attentivement votre programme et je vous appelle si je vois quelque chose à modifier.
+L114 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous êtes Sébastien Legendre ?
+L115 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Euh... Oui, c’est moi.
+L116 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour monsieur Legendre, je suis Suzuki Mayu de Suzuki Corporation.
+L117 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bon... bonjour. Je m’attendais à rencontrer...
+L118 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Monsieur Suzuki ? Il a dû annuler son voyage, vous n’aviez pas été prévenu ?
+L119 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, enfin je m’attendais à voir monsieur Junichiro Suzuki.
+L120 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il a eu un empêchement de dernière minute. J’espère que cela ne changera pas votre organisation.
+L121 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mais, pas du tout. Je suis très heureux de faire votre connaissance. Avez-vous fait bon voyage ?
+L122 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, tout s’est très bien passé.
+L123 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Laissez-moi porter vos affaires, nous allons prendre un taxi qui va nous conduire à votre hôtel.
+L124 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci. Tenez...
+L125 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous n’avez pas d’autres bagages ?
+L126 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, c’est tout ce que j’ai.
+L127 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien, allons-y ! C’est par là.
+L128 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ L’hôtel est situé dans quel arrondissement ?
+L129 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il est dans le huitième, il est très bien placé. J’espère qu’il vous plaira.
+L130 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il y a quelque chose de prévu aujourd’hui ?
+L131 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Aujourd’hui, je vous conduis à votre hôtel, vous pourrez vous reposer un peu, et ce soir il y a un dîner sur un bateau mouche.
+L132 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Avec vous ?
+L133 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui... enfin... si vous souhaitez sortir...
+L134 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, oui.
+L135 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et demain, visite de l’usine le matin. Déjeuner avec Madame Bougrab et le responsable du personnel. L’après-midi, il y aura une réunion avec le conseil d’administration.
+L136 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord, je pense que je ne vais pas sortir ce soir, je préfère me reposer.
+L137 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, vous avez raison. Je vous laisse ma carte avec mon numéro de téléphone personnel.
+L138 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.
+L139 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous parlez très bien français. Vous avez vécu en France ?
+L140 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, j’ai étudié le français pendant deux ans à Tours.
+L141 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je n’aurai pas besoin de vous parler en japonais, alors ?
+L142 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah ? Vous parlez japonais ?
+L143 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, non, c’est une plaisanterie, je ne sais que quelques mots... Konichiha, hajimemashite...
+L144 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Formidable ! Hajimemashite.
+L145 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Nous sommes arrivés.
+L146 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Votre réunion avec madame Bougrab s’est bien passée ?
+L147 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, madame Bougrab est très professionnelle. Tout était très bien organisé.
+L148 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’avais réservé une soirée au Moulin Rouge pour ce soir.
+L149 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Au Moulin Rouge ?
+L150 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, enfin, je m’attendais à accueillir un homme.
+L151 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah ... je vois...
+L152 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, non, vous n’y êtes pas. J’ai choisi le Moulin rouge comme j’aurais pu choisir ...
+L153 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le bois de Boulogne...
+L154 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le bois de Boulogne ? Non, mais ce n’est pas du tout ce que vous imaginez !
+L155 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je n’imagine rien. Je plaisante Sébastien.
+L156 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah ah oui... Oui, vous plaisantez... ah, très drôle.
+L157 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En fait, j’aurais préféré me reposer ce soir. J’aurai une longue journée demain.
+L158 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je comprends. Je vous raccompagne à votre hôtel.
+L159 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Entrez.
+L160 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour.
+L161 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, vous êtes Maryse Dutemps ?
+L162 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui.
+L163 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Asseyez-vous, je vous en prie. Alors, vous avez 22 ans... Et vous avez déjà travaillé dans la vente ?
+L164 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, j’ai passé un Bac pro de vente, j’ai fait plusieurs stages dans des boutiques de vêtements.
+L165 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Dans votre CV, il est indiqué que vous avez aussi travaillé dans un fast food ?
+L166 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, j’y ai travaillé pendant deux ans.
+L167 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et, c’était comment le travail là-bas ?
+L168 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Les conditions de travail étaient correctes, la direction m’avait aménagé un emploi du temps qui s’adaptait bien à mes études.
+L169 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous êtes toujours étudiante ?
+L170 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, mais comme je ne trouve pas de CDI, j’ai pensé faire un travail saisonnier.
+L171 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et vous avez une idée du travail qu’on vous propose ici ?
+L172 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’ai cru comprendre qu’il s’agissait de tenir l’épicerie du camping...
+L173 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, enfin c’est plus qu’une épicerie. C’est à la fois la boulangerie, la confiserie, la poste et le bureau de l’office de tourisme...
+L174 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est très complet, ça doit être très intéressant. On doit rencontrer  beaucoup de gens.
+L175 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est une clientèle très internationale. Vous avez indiqué que vous parliez anglais et allemand ?
+L176 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Euh, oui... enfin, je me débrouille.
+L177 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ok, could you introduce yourself in english please ?
+L178 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oh... yes... of course...euh... but .... I don’t... euh...I am désoled.... I don’t speak english very well.
+L179 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, j’avais compris. Et votre allemand ?
+L180 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ce n’est pas meilleur.
+L181 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bon, en fait, je cherche quelqu’un de trilingue. Je suis désolé.
+L182 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tant pis. Au revoir.
+L183 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Au revoir mademoiselle. Laissez la porte ouverte en sortant.
+L184 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme ça ?
+L185 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, je suis Brandon Chevalier. Je viens pour l’entretien.
+L186 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah, c’est vous. Bonjour, je suis Francine Charles. L’entretien devait se faire avec Monsieur Marc, mais il a eu un empêchement. Nous le ferons donc sans lui. Alors, nous avons bien reçu votre CV et votre lettre de motivation. Vous avez l’air d’avoir très envie de travailler pour nous. Vous pouvez développer un peu sur ce sujet ?
+L187 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, en fait, je suis actuellement étudiant...
+L188 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous êtes en première année, c’est ça ?
+L189 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, en première année d’anglais. Et j’ai besoin de travailler pour financer mes études. Je ne savais pas si vous cherchiez quelqu’un ou non, mais j’ai tenté ma chance.
+L190 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et vous avez bien fait. Est-ce qu’il y a une raison particulière qui a motivé votre candidature ou bien avez-vous envoyé des dizaines de lettres à droite à gauche ?
+L191 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En fait, j’habite juste à côté... alors, ce serait très facile pour moi de venir et pour vous de faire appel à moi en cas de besoin. Et puis, je sais que dans la restauration rapide, les horaires sont très souples.
+L192 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est vrai. Ça ne vous dérange pas de travailler le soir et les week-ends ?
+L193 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien, pour dire la vérité, je préférerais ne travailler que les soirs et les week-ends. Je pourrais ainsi bien gérer mon temps pour mon travail et mes études.
+L194 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous savez que ce ne sera pas facile de tenir le rythme.
+L195 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’en ai conscience, mais je fais ça depuis ma terminale.
+L196 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vois dans votre CV que vous faisiez de l’intérim.
+L197 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, pour plusieurs entreprises. Les horaires changeant continuellement, je voudrais travailler dans un seul endroit pour me concentrer plus facilement.
+L198 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bien, vous m’avez l’air sérieux. On cherche un équipier pour s’occuper de la caisse. Vous avez déjà fait ça ?
+L199 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, jamais.
+L200 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien tant mieux. On vous apprendra. Vous pourriez commencer quand ?
+L201 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je suis prêt même maintenant.
+L202 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord, je dois d’abord en parler au gérant. Mais si ça le fait, on pourrait commencer lundi prochain. Il y a une formation de trois jours. Si au bout de ces trois jours, vous souhaitez toujours travailler pour nous, alors nous pourrons vous proposer un CDI de 60 heures par mois.
+L203 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ 60 heures ?
+L204 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ On discutera de la répartition des heures en fonction de nos besoins et de votre emploi du temps.
+L205 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord...
+L206 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous avez des questions ?
+L207 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, ce travail consiste seulement à encaisser ?
+L208 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui et non, c’est un travail très polyvalent. Au moment du rush, vous prenez la commande, vous servez et vous encaissez. Avant et après, quand il n’y pas de client, vous devez faire un tour en salle pour nettoyer les tables. Quelquefois, on vous demandera d’être aux frites. Enfin, vous verrez tout ça dans la formation.
+L209 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord.
+L210 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bien, alors, je vous confirme avant demain pour le stage. Je pourrai compter sur votre présence lundi pour le stage ?
+L211 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, lundi, sans problème.
+L212 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci. Et bien, je vous souhaite une bonne journée.
+L213 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonne journée à vous aussi. Merci. Au revoir.
+L214 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Au revoir.
+L215 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, je m’appelle Martin Jobs. Je vous appelle pour l’annonce concernant un emploi de prof d’anglais.
+L216 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui...
+L217 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je suis étudiant en France en ce moment et ce travail m’intéresse.
+L218 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah, très bien. Vous êtes américain ?
+L219 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, je suis anglais.
+L220 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et, vous avez déjà donné des cours à des enfants ?
+L221 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Disons que je suis l’aîné d’une famille de quatre enfants. J’ai aidé mes frères pour les devoirs.
+L222 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et vous avez déjà enseigné l’anglais à des francophones ?
+L223 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ce serait la première fois que je donne des cours d’anglais à des enfants, mais j’en donne à des adultes.
+L224 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En fait, j’ai deux garçons qui ont de grosses difficultés en anglais, ce serait surtout pour les aider à faire leurs devoirs.
+L225 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je vois. Ils ont quel âge ?
+L226 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ils ont onze et douze ans. Vous avez déjà fait du baby-sitting ?
+L227 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Euh, pas vraiment mais comme je vous ai dit, je me suis longtemps occupé de mes frères parce que mes parents travaillaient tous les deux.
+L228 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah oui. Et, vous seriez intéressé pour garder les enfants aussi de temps en temps en leur parlant en anglais.
+L229 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bien sûr.
+L230 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous habitez où exactement ?
+L231 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je suis dans le dix-septième.
+L232 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah, vous êtes à côté !
+L233 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui. Il n’y avait pas vraiment de détails concernant les heures et la rémunération...
+L234 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est vrai. Ce serait trois fois par semaine : le lundi, le mercredi et le vendredi de 16h30 à 21h. Et ce serait payé quinze euros de l’heure. Ça vous conviendrait ?
+L235 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, très bien. je suis disponible ces jours-là.
+L236 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, l’idéal serait qu’on se voit une fois pour voir si le courant passe avec les enfants. Vous pourriez venir dès la semaine prochaine pour un essai ?
+L237 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, lundi ?
+L238 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Lundi à 16h30. Je vais prendre votre numéro de téléphone et votre e-mail, si vous voulez bien.
+L239 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, alors le téléphone, c’est le 01 44 35 49 73
+L240 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, je répète  : 01 44 35 49 73
+L241 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est ça. Et mon e-mail, c’est mjobs@gmail.com
+L242 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ tout à fait.
+L243 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bien, alors Martin, je vous attendrai lundi à 16h30 devant la station Mairie 17e
+L244 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Lundi, 16h30 devant la station Mairie 17e. C’est noté.
+L245 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Très bien, alors au revoir Martin.
+L246 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Au revoir madame.
+L247 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Fait pas chaud ce matin...
+L248 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, et ils annoncent rien de bon pour la semaine. Qu’est-ce qu’il vous faudra ?
+L249 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mettez-moi un peu d’emmental, s’il vous plaît.
+L250 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ De l’emmental... Ça ira comme ça ?
+L251 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est très bien.
+L252 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il vous faut autre chose ?
+L253 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je prendrais bien un morceau de Comté.
+L254 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous voulez lequel ?
+L255 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Euh, c’est quoi la différence à part le prix.
+L256 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le mieux c’est d’y goûter. Tenez...
+L257 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il est bon.
+L258 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Goûtez-celui là...
+L259 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ La couleur est différente... Il est plus fruité que le premier.
+L260 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le deuxième est un Comté d’été il a huit mois d’affinage alors que le premier est un vieux Comté. Il a été affiné 24 mois.
+L261 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre le deuxième.
+L262 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est un bon produit.
+L263 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous m’en mettrez deux cents grammes. Et puis, vous allez me mettre aussi une demi livre de beurre. Et c’est tout.
+L264 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, onze soixante.
+L265 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez.
+L266 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous n’auriez pas de monnaie ?
+L267 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Attendez...
+L268 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’ai soixante centimes.
+L269 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ça m’arrange. Merci bien.
+L270 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci. Bonne journée.
+L271 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonne journée.
+L272 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour.
+L273 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour mademoiselle. Qu’est-ce qu’il vous faudra ?
+L274 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre un peu de roquefort...
+L275 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous voulez lequel ?
+L276 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Celui-là.
+L277 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vous en mets combien ? Comme ça ?
+L278 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un peu moins...
+L279 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ça va comme ça ?
+L280 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui. C’est bien.
+L281 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il vous faudra autre chose ?
+L282 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, un camembert bien fait.
+L283 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’ai celui-là. Vous m’en direz des nouvelles. Ce sera tout ?
+L284 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui.
+L285 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors... 11 euros 47.
+L286 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez.
+L287 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà.
+L288 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, bonne journée
+L289 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonne journée. Au revoir.
+L290 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est à qui le tour ?
+L291 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je crois que c’est à moi. Bonjour., Il me faudrait de la mimolette.
+L292 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, vous voulez laquelle ?
+L293 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Celle à 30 euros le kilo.
+L294 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme ça, ça ira ?
+L295 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Euh...Un peu plus...
+L296 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme ça ?
+L297 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, très bien.
+L298 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il vous faudra autre chose ?
+L299 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, il me faut du fromage à raclette... Vous m’en mettrez pour quatre personnes.
+L300 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ 400 grammes... ça suffira ?
+L301 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, on n’est pas des gros mangeurs. Vous me conseillez quel vin pour l’accompagner ?
+L302 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oh, un Côte du Jura ou un Riesling, ça ira très bien.
+L303 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le Côte du Jura ? Je ne connais pas...
+L304 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Eh bien, c’est l’occasion d’essayer. Ça change un peu. Vous en trouvez des très bien à partir de cinq euros... Il vous faudra autre chose ?
+L305 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, c’est tout.
+L306 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, 14 euros 90.
+L307 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez.
+L308 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous n’auriez pas la monnaie ?
+L309 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ La monnaie ? Euh... Non désolé. Je n’ai que ça.
+L310 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, dix qui font quinze, vingt, trente, quarante et cinquante.
+L311 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.
+L312 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, bonne journée.
+L313 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est quoi tout ça ?
+L314 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ce sont des notes que j’ai prises en regardant la télévision aujourd’hui.
+L315 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mais il n’y a que des sigles et des acronymes ?
+L316 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est un devoir de mon prof de français. Il veut qu’on note le maximum de sigles et acronymes. Le problème, c’est que je ne sais pas toujours ce que ça veut dire ni comment ça se lit.
+L317 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Attends, je vais t’aider. Ça c’est H.L.M, ça signifie Habitation au Loyer Modéré.
+L318 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ On dit un ou une H.L.M ?
+L319 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Une H.L.M. Là, c’est JT... Le JT, c’est le journal télévisé. Et ça c’est CDD. Le CDD, c’est un contrat à durée déterminée.
+L320 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et le CDI ?
+L321 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est un contrat à durée indéterminée.
+L322 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est mieux ?
+L323 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, normalement, c’est ce que les gens espèrent avoir.
+L324 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah oui, j’ai une autre question. Tu lis comment ça ?
+L325 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ FBI
+L326 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu ne dis pas FBI ?
+L327 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, c’est américain. On dit aussi BBC ou MTV !
+L328 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, alors pourquoi on dit CIA ?
+L329 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ CIA...Euh... oui, là tu me poses une colle.
+L330 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ce n’est pas logique !
+L331 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, et bien c’est comme ça !
+L332 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Qui est-ce ?
+L333 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est Nao.
+L334 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Nao ? Elle est chinoise ?
+L335 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, elle est japonaise. Elle est de Tokyo.
+L336 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Elle est très mignonne...
+L337 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, et elle est très sympa.
+L338 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu as son numéro de téléphone ?
+L339 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Son numéro de téléphone ? Non... Et, elle est mariée...
+L340 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mariée ? Mais elle est très jeune.
+L341 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je crois que c’est Marjorie. La secrétaire.
+L342 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ La secrétaire de l’école ?
+L343 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, elle travaille à la réception. Elle est très sympa.
+L344 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu la connais ?
+L345 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un peu. On prend le même bus pour venir.
+L346 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et lui, c’est qui ?
+L347 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est le directeur. Monsieur Azou.
+L348 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Qu’est-ce qu’il est jeune !
+L349 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu trouves ?
+L350 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’ai oublié ma trousse. Tu peux me prêter un stylo.
+L351 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tiens.
+L352 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.Tu peux me donner une feuille de papier aussi ?
+L353 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Heu... oui. Tiens.
+L354 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci. Ça t’ennuie pas si je regarde avec toi... j’ai oublié mon livre...
+L355 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, pas de problème.
+L356 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Pff. Je ne comprends rien.Tu pourras m’expliquer après le cours.
+L357 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, si tu veux... on ira au café.
+L358 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui... euh non, j’ai oublié mon porte-monnaie.
+L359 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bon allez, ce n’est pas grave, je t’invite.
+L360 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu es trop gentille.
+L361 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est bien possible.
+L362 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il y a quelque chose que tu voudrais faire ? que tu voudrais voir ?
+L363 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, j’aimerais bien visiter les châteaux de la Loire.
+L364 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et il y en a un en particulier que tu voudrais voir ?
+L365 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, pas vraiment.
+L366 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, si tu veux, je pourrai t’emmener voir le château de Chambord.
+L367 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Chambord ?
+L368 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est un très grand château. Je suis sûr que ça va te plaire.
+L369 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord, c’est très gentil.
+L370 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ On peut en visiter deux dans la journée. Il y a le château de Cheverny pas très loin. C’est beaucoup plus petit mais il y a un joli parc.
+L371 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Cheverny ? C’est le château de Tintin ?
+L372 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, tout à fait. Hergé s’est inspiré de ce château. D’aillleurs, si tu aimes Tintin, tu pourras acheter quelques souvenirs très sympa à la boutique du château.
+L373 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu as prévu quelque chose ce week-end ?
+L374 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je vais voir le Pont du Gard avec l’école.
+L375 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Très bien ! Tu as besoin d’un casse-croûte ?
+L376 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, c’est gentil, on va acheter un sandwich sur la route.
+L377 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu pars à quelle heure demain ?
+L378 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme d’habitude, mais je vais certainement rentrer plus tard. Ne m’attendez pas pour dîner
+L379 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord. j’avais prévu de faire un bon poulet avec une soupe au potiron. J’en laisserai dans le frigo.
+L380 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, c’est très gentil.
+L381 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Allez, je te laisse. Bonne nuit Naoko.
+L382 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonne nuit.
+L383 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, c’était comment le Pont du Gard ?
+L384 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Génial !
+L385 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En plus, vous avez eu beau temps.
+L386 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, il a fait très beau. Comme il faisait très chaud, il y avait des trucs qui envoyaient de l’eau pour nous rafraîchir...
+L387 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Euh, tu veux dire des vaporisateurs ?
+L388 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est ça !
+L389 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je suppose que tu as pris plein de photos ?
+L390 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bien sûr, tiens, regarde !
+L391 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est vrai que c’est un endroit fantastique.
+L392 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu n’y es jamais allé ?
+L393 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Si une fois, il y a au moins quinze ans.
+L394 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ce n’est pas le genre d’endroit qui change beaucoup, de toute façon.
+L395 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, là, pour le coup, c’est plutôt moi qui ai dû changer...
+L396 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, je suis Nao Tanaka. Vous êtes monsieur Bernard ?
+L397 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Appelle-moi Greg.  Tu as fait bon voyage ?
+L398 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, tout s’est bien passé. C’est très gentil d’être venu me chercher à l’aéroport.
+L399 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est normal. On habite à côté. On va se tutoyer, hein ?
+L400 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Se tutoyer ?
+L401 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, on se dit TU. Tu comprends ?
+L402 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah, tu ... Oui, je comprends.
+L403 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Allez, on y va. Laisse-moi porter ton sac !
+L404 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, c’est très gentil.
+L405 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors voici ta chambre.
+L406 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Elle est grande !
+L407 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, elle est grande. Mais le lit est petit.
+L408 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un bureau !
+L409 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, un bureau et des tiroirs pour tes cahiers.
+L410 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il y a une armoire ?
+L411 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, il y a une grande armoire.
+L412 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il y a aussi une table basse.
+L413 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et un fauteuil.
+L414 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Super !
+L415 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il y a un réveil sur la table de chevet. Et il y a aussi des étagères à côté de la fenêtre.
+L416 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est fantastique ! Merci beaucoup.
+L417 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien, tant mieux !
+L418 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors voici ta chambre.
+L419 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Elle est grande !
+L420 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, elle fait 20 mètres carrés. Il y a un grand lit pour bien dormir.
+L421 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un beau bureau !
+L422 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, un bureau pour étudier... et des tiroirs pour ranger tes cahiers.
+L423 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il n’y a pas d’armoire ?
+L424 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Si, elle est derrière toi. Une grande armoire pour ranger tes affaires.
+L425 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il y a aussi une table basse.
+L426 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et un fauteuil.
+L427 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Super !
+L428 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il y a un réveil sur la table de chevet. Et il y a aussi des étagères à côté de la fenêtre pour ranger tes livres.
+L429 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est fantastique ! Merci beaucoup.
+L430 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors voici la chambre.
+L431 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Elle est grande !
+L432 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est une chambre de 20 mètres carrés. Elle donne sur le sud. Elle est très agréable l’après-midi.
+L433 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le bureau est très beau.
+L434 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il date du dix-neuvième siècle. Les tiroirs du bureau ferment à clé.
+L435 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je ne vois pas l’armoire...
+L436 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Elle est derrière toi. C’est une armoire murale, on l’ouvre comme ça.
+L437 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le tapis aussi est ancien ?
+L438 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je crois. Alors, tu peux ranger tes livres sur les étagères à côté de la fenêtre. Et il y a un radio réveil sur la table de chevet. Tu peux l’utiliser.
+L439 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est fantastique ! J’adore cette chambre.
+L440 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien, tant mieux !
+L441 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, vous êtes Mana ?
+L442 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui...
+L443 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je suis Paul Valence. Enchanté.
+L444 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Enchantée.
+L445 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous êtes arrivée quand ?
+L446 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Cet après-midi.
+L447 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ça va ? Vous êtes bien installée ?
+L448 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, Madame Valence m’a montré ma chambre, tout est parfait.
+L449 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je pense que vous serez bien ici. Vous restez deux semaines, c’est bien ça ?
+L450 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je vais suivre un stage intensif à l’Alliance française.
+L451 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mais vous parlez déjà très bien français.
+L452 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’ai encore besoin de progresser.
+L453 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En tout cas, je vous souhaite un bon séjour parmi nous.
+L454 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est très gentil à vous.
+L455 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Nous passerons à table à 19h00.
+L456 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord, à tout à l’heure.
+L457 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, je m’appelle Mark.
+L458 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, moi c’est Elisabeth..
+L459 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu es nouvelle ici ?
+L460 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je suis dans cette école depuis lundi.
+L461 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors ? C’est comment ?
+L462 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’aime bien ! Les professeurs sont sympa. Et, il y a beaucoup d’activités.
+L463 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu es dans une famille d’accueil ?
+L464 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, ma famille d’accueil est très sympa. Leur maison n’est pas loin de l’école. Excuse-moi, mon cours commence dans cinq minutes.
+L465 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ok, à bientôt !
+L466 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, à bientôt.
+L467 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Salut, je peux m’asseoir ?
+L468 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, il y a de la place.
+L469 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je m’appelle Juan. Je viens d’Équateur.
+L470 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Moi, c’est Guillia. Je suis italienne. Tu es ici pour combien de temps ?
+L471 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Normalement, je suis ici encore pour un mois. Mais, j’ai envie de prolonger un peu. Et toi, ça fait longtemps que tu étudies ici ?
+L472 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, pas vraiment. Je suis arrivée il y a deux semaines. Je vais rester encore deux semaines et après je vais suivre mes études à la fac.
+L473 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ouah ! Tu vas étudier quoi ?
+L474 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais faire ma licence de droit. Et toi ?
+L475 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ben, en fait, je ne sais pas trop. Je n’avais pas de projet précis au départ. Je me suis fait plein d’amis et j’ai envie de prolonger mon expérience en France.
+L476 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu as déjà fini tes études ?
+L477 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui et non, je vais reprendre l’entreprise familiale en rentrant. Je suis assez libre en fait.
+L478 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je dois te laisser. À plus.
+L479 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Salut.
+L480 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu viens ici en train ou en bus ?
+L481 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En général, je prends le métro. Et toi ?
+L482 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Moi, je viens à pied ou à vélo. Ça dépend des jours.
+L483 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu habites où ?
+L484 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Dans le quinzième arrondissement.
+L485 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est loin ?
+L486 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, c’est à 20 minutes à pied. Et toi ? Tu habites loin ?
+L487 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, j’habite à 10 minutes de l’école.
+L488 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour.
+L489 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour.
+L490 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il y a un problème avec ma famille d’accueil.
+L491 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Asseyez-vous, je vous en prie.
+L492 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.
+L493 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vous écoute.
+L494 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien, voilà, depuis que je suis arrivée, personne ne me parle.
+L495 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, ...
+L496 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et je sens qu’il y a une grande tension dans cette famille. Et j’aimerais changer si c’est possible.
+L497 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous devez comprendre que c’est un peu compliqué si c’est juste parce qu’il y a un manque de communication...
+L498 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mais ce n’est pas tout. Le soir, je les entends se disputer jusqu’à minuit, ça m’empêche de dormir. Et puis, c’est aussi au sujet du repas, depuis une semaine, nous n’avons mangé que des raviolis en boîte ou des spaghettis, pas de viande, pas de légumes... Je ne pourrai pas supporter de vivre dans ces conditions une semaine de plus.
+L499 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais voir ce que je peux faire, revenez me voir en fin d’après-midi.
+L500 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.
+L501 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous avez des questions ?
+L502 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je ne comprends pas très bien le sens de« vers huit heures».
+L503 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ « Vers huit heures » ? Ça signifie « autour de huit  heures» . Ce n’est pas à huit heures exactement. Tu comprends ?
+L504 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, merci.
+L505 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Une autre question ?
+L506 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, j’ai une question à propos du texte numéro 2. Ligne 10. C’est écrit « j’aurais voulu un thé ». Mais, pourquoi c’est « J’aurais voulu » ?
+L507 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, quand on commande quelque chose, on utilise souvent le verbe vouloir. On  a le choix entre plusieurs formes : Je veux – je voudrais – j’aurais voulu.
+L508 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Disons que les formes au conditionnel « je voudrais – j’aurais voulu » sont considérées comme plus polies. la forme en « je veux » est plus directe, c’est moins poli.
+L509 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Est-ce que « j’aurais voulu » est le plus poli ?
+L510 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui et non. Je pense qu’on utilise vraiment les deux sans faire de distinction. On veut juste marquer la politesse. Tu comprends.
+L511 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est très clair maintenant.
+L512 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il y a d’autres questions ? ... Non ? Alors, je vous donne les devoirs pour demain. Vous ferez les exercices 4 et 5 p. 27.
+L513 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ 4  ..
+L514 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, 4 et 5 page 27. Merci, à demain.
+L515 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ À demain !
+L516 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Noircir, qu’est-ce que ça veut dire ?
+L517 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Noircir, ça veut dire « devenir noir » ou « rendre noir ».
+L518 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et rougir ? Qu’est-ce que ça veut dire ?
+L519 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Rougir, ça veut dire « devenir rouge » ou « rendre rouge ».
+L520 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah d’accord. il y a toujours deux sens possibles ?
+L521 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, ça dépend des mots. Par exemple, « élargir » signifie « rendre large ».
+L522 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mais alors comment on dit « devenir large » ?
+L523 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ On dit « s’élargir ».
+L524 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comment savoir si c’est « devenir » ou « rendre » ?
+L525 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le plus rapide et le plus efficace est mémoriser une liste avec les verbes les plus fréquents. Tiens, voici la liste.
+L526 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci !
+L527 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’ai une deuxième question. C’est à propos de la conjugaison. Est-ce que ces verbes sont réguliers ?
+L528 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, ils ont une conjugaison régulière. Tu te rappelles les terminaisons ? Par exemple « finir » ?
+L529 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ « Je finis, tu finis, il finit, nous finissons, vous finissez, ils finissent. »
+L530 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, quelle est la conjugaison de « noircir » ?
+L531 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ « je noircis, tu noircis, il noircit, nous noircissons, vous noircissez, ils noircissent. »
+L532 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Exactement.
+L533 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, c’est bien ici qu’on vend des produits bio faits à la ferme ?
+L534 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, mais on est fermé aujourd’hui.
+L535 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah zut alors, je rentre ce soir à Paris. Vous pourriez quand même me vendre un fromage ?
+L536 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous les Parisiens, vous êtes tous les mêmes ! Vous voudriez que tout soit ouvert partout et tout le temps. Et, vous me faites travailler même le dimanche ! Vous voulez juste un fromage ?
+L537 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous avez quoi d’autre à me proposer ?
+L538 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ben tout ce qui est derrière-vous, ce sont des produits de la ferme : conserves de haricots verts, confiture de figues...
+L539 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vois que vous avez même du shampoing bio... Et tout est certifié agriculture biologique ?
+L540 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Écoutez, on fait tout nous-mêmes. Pour certains produit, on est en attente de la certification. Alors, même s’il n’y a pas le label, je vous garantis qu’ici, vous ne trouverez que du 100 % bio, 100% origine ferme.
+L541 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Même votre huile ?
+L542 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est une huile de noix.
+L543 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Même les savons ?
+L544 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tout, je vous dis. Bon on se dépêche parce que moi, je voudrais bien me reposer : on est dimanche quand même !
+L545 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Pardon, je vais donc prendre le fromage et puis un savon.
+L546 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ ﻿Bonjour, qu’est-ce qu’il vous faudra ?
+L547 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre des tomates.
+L548 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, des tomates, regardez comme elles sont belles !
+L549 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vous en mets combien ?
+L550 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ ll m’en faut un kilo.
+L551 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, un kilo de tomates... Un kilo cent... ça ira ?
+L552 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui.
+L553 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et avec ceci ?
+L554 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je voudrais une belle laitue.
+L555 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Une belle laitue !
+L556 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ils sont à combien vos oignons ?
+L557 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un euro le kilo !
+L558 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ils sont pas chers
+L559 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, et ils sont bons !
+L560 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors mettez-m’en un kilo. Ce sera tout.
+L561 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, une laitue, un kilo d’oignons, un kilo de tomates, Ça nous fera ... allez ! trois euros !
+L562 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez.
+L563 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, bonne journée. Allez ! on y va dans l’oignon, on y va !!
+L564 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour madame.
+L565 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour.
+L566 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comment ça va aujourd’hui ?
+L567 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oh, on fait aller...
+L568 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Qu’est-ce que ce sera aujourd’hui ?
+L569 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, il me faudrait du merlan pour deux personnes.
+L570 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà, il vous faudra autre chose ?
+L571 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je vais prendre des crevettes...
+L572 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous en voulez combien ?
+L573 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mettez-m’en 200 grammes.
+L574 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et avec ceci ?
+L575 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous avez de la soupe de poisson ?
+L576 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, elle est de ce matin.
+L577 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien, vous allez m’en mettre pour deux personnes.
+L578 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vous mets des croutons avec ?
+L579 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, un petit peu... Ce sera tout.
+L580 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, le merlan... les crevettes, la soupe de poisson... et les croutons, ils sont pour moi.
+L581 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oh, c’est gentil !
+L582 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ça nous fera 18 euros 50.
+L583 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez...
+L584 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le compte est bon. Merci, bonne journée madame.
+L585 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, vous de même.
+L586 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, c’est Jacques Lebon, le boucher. Je vous apporte le boudin.
+L587 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour.... ah...le boudin... faites voir... Ah oui ! Il est beau.
+L588 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il est de ce matin. Je vous le mets où.
+L589 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oh, mettez-le derrière.
+L590 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ici, ça ira ?
+L591 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, plus au fond.
+L592 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme ça, ça ira ?
+L593 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est bien.
+L594 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je mets les saucisses au même endroit ?
+L595 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, mettez-les devant, ce sera très bien.
+L596 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme ça ?
+L597 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, c’est parfait. Merci. Je vous dois combien ?
+L598 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Rien du tout, votre mari a déjà réglé la commande. Je vous laisse la facture. Je vous demande juste une signature ici.
+L599 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord.  Vous n’auriez pas un stylo ?
+L600 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Si tenez.
+L601 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci. Voilà.
+L602 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci. Bonne journée madame.
+L603 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, vous aussi. Et encore merci !
+L604 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Emmanuel, vous avez fini le compte rendu de la réunion de mardi ?
+L605 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, il est prêt !
+L606 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’aimerais le lire avant que vous l’envoyiez à tout le monde.
+L607 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bien sûr. Par contre, il est un peu gros, je vous envoie le lien sur Dropbox.
+L608 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah, je (n’y) comprends rien à votre dropboss là !
+L609 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Dropbox. Vous ne l’avez pas installé l’autre fois ?
+L610 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Si, j’ai suivi toutes les instructions, ça doit être sur mon ordinateur, mais vous savez bien que je ne suis pas très douée pour tout ça.
+L611 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je comprends, mais j’ai fait le compte rendu sur Powerpoint et comme le fichier est un peu lourd, ça ne va pas passer autrement. Sinon, je peux vous le mettre sur une clé USB.
+L612 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Faisons simple. Vous allez me l’imprimer et le poser sur mon bureau.
+L613 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme vous voudrez.
+L614 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, je dois y aller. Il sera prêt dans la matinée ?
+L615 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je m’en occupe tout de suite, je vous l’apporte avant dix heures.
+L616 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je serai en réunion, vous le remettrez à madame Hugues.
+L617 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Entendu Madame.
+L618 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, je suis Vincent. Je viens pour les vendanges.
+L619 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, vous avez déjà vendangé ?
+L620 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, c’est la première fois.
+L621 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous êtes étudiant ?
+L622 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je suis étudiant en droit.
+L623 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ je vous préviens, je veux vous voir à 7h50 aux pieds des vignes. On commence à 8:00 même quand il pleut !
+L624 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Pas de problème. Vous pouvez compter sur moi.
+L625 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bon, alors vous allez vous mettre avec moi. Je vais vous montrer comment on fait. Venez.
+L626 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, vous prenez la grappe dans la main gauche et coupez franchement avec le sécateur, il ne faut pas tirer dessus, et vous posez la grappe dans le seau. Vous faites attention de ne pas mettre de feuilles dans votre seau.
+L627 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord. Et quand le seau est plein ?
+L628 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien, vous attendez que Michel passe avec la hotte et vous versez tout dans la hotte.
+L629 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord.
+L630 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et puis, faites attention à ne pas mettre de pourri dans le seau.
+L631 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Du pourri ?
+L632 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, regardez cette grappe, elle est abimée, il y a de la pourriture. Ça donne mauvais goût au vin.
+L633 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et ça c’est pourri ?
+L634 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non !! Ça c’est de la pourriture noble. C’est gorgé de sucre. Goûtez !
+L635 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est très sucré.
+L636 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un peu oui, c’est comme du raisin sec. Il faut pas l’oublier. Et puis, ne prenez pas les petites grappes qui sont en hauteur, elles sont encore un peu vertes pour certaines. Vous avez compris ?
+L637 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je crois que oui.
+L638 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bon, si vous avez un doute, vous me demandez, d’accord ?
+L639 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est d’accord.
+L640 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Maryse, vous n’auriez pas vu mon portable ?
+L641 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je crois l’avoir vu sur votre bureau.
+L642 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, je viens de regarder.
+L643 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il est peut-être sous un dossier...
+L644 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah oui, le voilà. Merci. Ah oui, j’oubliais. Vous n’avez pas oublié de téléphoner à Monsieur Dutemps pour confirmer notre rendez-vous ?
+L645 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je l’ai appelé et j’ai laissé un message sur son répondeur. Vous voulez  que je le rappelle ?
+L646 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, dites-lui que je serais un peu en retard.
+L647 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mais, le rendez-vous est à 17 heures.
+L648 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je sais , mais je dois passer au chantier pour vérifier deux ou trois choses.
+L649 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Entendu monsieur.
+L650 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Frédéric, vous pourriez passer dans mon bureau quand vous aurez un moment ?
+L651 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, je finis cette lettre et je passe vous voir.
+L652 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous vouliez me voir ?
+L653 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, merci Frédéric, vous avez fait vite.
+L654 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’avais presque fini.
+L655 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je suis un peu ennuyée pour le mois prochain. Maryse part en congé de maternité, je n’ai toujours personne pour la remplacer, et Franck a déjà posé ses vacances...  Vous accepteriez de faire un peu plus d’heures ?
+L656 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien, oui, c’est possible mais comme vous savez c’est moi qui m’occupe des enfants le soir.
+L657 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous allez les chercher à quelle heure ?
+L658 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En ce moment, je quitte le bureau à 18h00, j’arrive chez la nourrice à 19h00...
+L659 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et vous pourriez vous arranger pour aller les prendre à 20h00 ?
+L660 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ça fait tard...
+L661 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je comprends bien mais je ne vois pas d’autres solutions, ça ne durerait pas...nous avons eu trois nouvelles commandes, on pourra jamais y arriver sans vous.
+L662 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je dois d’abord demander à la nourrice si elle accepte.
+L663 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci Frédéric, il va de soi qu’on vous paiera les frais de nourrice supplémentaires.
+L664 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci beaucoup. Je la verrai ce soir, je vous enverrai un mail.
+L665 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.
+L666 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous avez eu mon e-mail ?
+L667 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non...
+L668 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ La nourrice est d’accord, ma femme s’arrangera pour aller chercher les enfants à ma place.
+L669 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ça veut dire que vous pourriez rester au bureau pendant le coup de feu.
+L670 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Exactement. On n’a pas intérêt, vu la conjoncture actuelle, de prendre du retard sur les commandes.
+L671 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et bien, merci beaucoup Frédéric. Vraiment, vous me retirez une épine du pied. Je ne voyais pas comment nous allions faire avec toutes ces absences.
+L672 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Au pire, il y avait l’intérim.
+L673 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’y avais songé un moment, vous pensez bien. Mais, les trois derniers loulous, qui m’ont été envoyés, m’ont un peu refroidie. Je préfère qu’on se débrouille entre nous.
+L674 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, vous avez raison, c’est sûrement mieux ainsi.
+L675 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bon, je ne vous retarde pas plus. Je vous souhaite une bonne journée.
+L676 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, à vous aussi.
+L677 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ah j’oubliais ! Vous allez recevoir les catalogues pour les assurances. Je vous laisse décortiquer tout ça.
+L678 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Entendu. Je vous enverrai un résumé dans la journée.
+L679 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.
+L680 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Qu’est-ce que tu fais ?
+L681 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je répare cette chaise.
+L682 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je ne savais pas que tu étais bricoleur.
+L683 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu peux m’aider un peu ?
+L684 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, qu’est-ce que je dois faire.
+L685 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tu peux aller chercher le marteau qui est sur la table ?
+L686 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui,... il est où ?
+L687 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ À côté de la boîte à outils... Tu le vois ?
+L688 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, tiens.
+L689 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, tu vas taper pendant que je tiens les pieds de la chaise.
+L690 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ici ?
+L691 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, mais ne frappe pas trop fort.
+L692 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme ça, ça va ?
+L693 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, continue. Super. Maintenant, apporte-moi les vis et un tournevis...
+L694 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tiens...
+L695 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Euh, non, j’ai dit des vis pas des clous... Et, c’est un cruciforme qu’il me faut...
+L696 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un quoi ?
+L697 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un cruciforme... Bon, laisse tomber. Tu vas tenir les pieds de la chaise, je vais m’occuper du matériel.
+L698 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Qu’est-ce qu’on fait pour le pot de départ de Gérald ?
+L699 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est quand ?
+L700 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ La semaine prochaine.
+L701 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ On a encore le temps.
+L702 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui et non, on n’a même pas réfléchi au cadeau.
+L703 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Pour Gérald ? C’est facile. il adore la pêche, on n’a qu’à lui offrir une canne à pêche.
+L704 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mais non, il a sûrement tout ce qu’il lui faut. Non, le mieux, ce serait de lui offrir un séjour autour de la pêche.
+L705 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est génial comme idée. Un truc du genre un  week-end en Dordogne ?
+L706 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà, je crois qu’on vend des boîtes cadeaux avec des séjours maintenant.
+L707 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’en ai vu au supermarché.
+L708 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, ça vaut dans les combien ce genre de truc ?
+L709 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je ne sais pas, ça doit dépendre du séjour qu’on veut.
+L710 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Dans ce cas-là, je vais proposer l’idée aux autres, s’ils sont d’accord, j’irai voir les prix après.
+L711 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, on va regarder combien ça coûte sur Internet pour se faire une idée tout de suite, comme ça ce sera plus concret...
+L712 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je crois que si tu fais dans cet ordre là, les autres vont avoir l’impression qu’on a choisi sans eux le cadeau.
+L713 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est un peu la réalité non ?
+L714 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Peut-être mais il vaut mieux qu’on décide tous ensemble.
+L715 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ce que tu peux être respectueuse de tes collègues, toi alors !
+L716 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, on ne peut pas en dire autant de toi !
+L717 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour.
+L718 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, vous allez où ?
+L719 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Gare de Lyon, s’il vous plaît. Ça prend combien de temps pour y aller ?
+L720 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ben, ça va dépendre de la circulation.
+L721 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’ai un train à 15h45.
+L722 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ben, si ça roule bien, on y sera dans une demi heure. Vous êtes d’où ?
+L723 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Pardon ?
+L724 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous venez d’où ? Vous êtes espagnole?
+L725 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, je suis brésilienne.
+L726 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le Brésil... ça fait rêver. Copa Capabana. La plage, le football.
+L727 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, oh, la réalité n’est pas toute rose non plus.
+L728 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est certain. C’est comme partout... On est arrivés !
+L729 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Déjà ?
+L730 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et oui, le temps passe vite en France. Ça nous fera 55 euros.
+L731 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez, gardez la monnaie.
+L732 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci. Bonne journée.
+L733 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Au revoir.
+L734 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Monsieur, bonjour.
+L735 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, un café s’il vous plaît.
+L736 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ image from www.podcastfrancaisfacile.com
+L737 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un café.
+L738 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà, monsieur... Trois euros.
+L739 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez.
+L740 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.
+L741 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, monsieur.
+L742 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, monsieur, vous désirez ?
+L743 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Qu’est-ce que vous avez comme sandwich ?
+L744 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme sandwich, il y a jambon ou fromage , on a aussi des croque-monsieur.
+L745 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre un croque-monsieur.
+L746 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et comme boisson ?
+L747 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Un demi, s’il vous plaît.
+L748 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Heineken ?1664 ? Amstel ?
+L749 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Une 1664.
+L750 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, une 16 et un croque-monsieur.Voilà, monsieur. Neuf euros, s’il vous plaît.
+L751 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez.
+L752 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, bon appétit.
+L753 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.
+L754 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ S’il vous plaît.
+L755 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui ?
+L756 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre la formule à 15 euros.
+L757 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, comme entrée ?
+L758 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre la salade au chèvre chaud.
+L759 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ La salade au chèvre chaud. Oui, et comme plat ?
+L760 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le plat du jour, qu’est-ce que c’est ?
+L761 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le plat du jour, c’est le saumon grillé ou le steak frites.
+L762 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre le steak frites.
+L763 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme cuisson ?
+L764 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ À point.
+L765 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Comme dessert, il y a le fondant au chocolat ou la tarte tatin.
+L766 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre la tarte tatin.
+L767 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, la formule à 15 euros avec la salade au chèvre chaud, le steak frites à point, et la tarte tatin. Vous prenez une boisson ?
+L768 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Une carafe d’eau, s’il vous plaît.
+L769 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, je voudrais cinq timbres pour le Japon.
+L770 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Cinq timbres pour le Japon...
+L771 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Est-ce que vous auriez des timbres de collection ?
+L772 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, attendez je vais voir ce que j’ai... Je n’en ai que deux sortes...
+L773 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’aime beaucoup ceux avec la tour Eiffel.
+L774 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vous en mets cinq avec la tour Eiffel ?
+L775 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, s’il vous plaît.
+L776 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, six euros s’il vous plaît.
+L777 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà.
+L778 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, bonne journée.
+L779 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Au revoir.
+L780 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, je voudrais un billet pour Paris, s’il vous plaît.
+L781 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, vous partez quand ?
+L782 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Mercredi prochain. Le 2 juin... J’aimerais partir le matin.
+L783 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, mercredi 2, vous voulez partir vers quelle heure ?
+L784 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En fait, j’aimerais arriver avant onze heures.
+L785 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous avez un train qui part à huit heures quinze, arrivée à Paris à neuf heures quarante-cinq. Il y en a un autre à neuf heures trente arrivée à Paris à onze heures...
+L786 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre le premier.
+L787 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, vous voyagez en première ou en seconde ?
+L788 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ En seconde.
+L789 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous avez une réduction ?
+L790 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non.
+L791 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, ça nous fera 34 euros.
+L792 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez.
+L793 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, bon voyage.
+L794 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci, au revoir !
+L795 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour.
+L796 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, je voudrais un billet pour Paris.
+L797 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, pour quel jour ?
+L798 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Ce serait pour le 21 mars prochain.
+L799 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le 21 mars, oui, vers quelle heure monsieur ?
+L800 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vers sept heures...
+L801 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, ... un instant, s’il vous plaît. Oui, alors vous avez un TER, départ des Aubrais à 6h30 arrivée à Paris Austerlitz à 8h04. Vous avez un Intercités, départ des Aubrais à 6h35 arrivée à Paris Austerlitz à 7h34. Vous avez l’ Intercités de 07h06 départ des Aubrais, arrivée à Austerlitz à 8h07, vous avez aussi l’Intercités de 7h35 départ des Aubrais arrivée à Austerlitz à 8h34.
+L802 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre celui-là.
+L803 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, l’Intercités de 7h35. Vous avez une réduction ?
+L804 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non.
+L805 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Première, seconde ?
+L806 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Seconde.
+L807 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et pour le retour ?
+L808 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Juste un aller simple, s’il vous plaît.
+L809 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, ça nous fera 21 euros.
+L810 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Tenez...
+L811 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Allez-y tapez votre code. Tenez, merci monsieur. Bonne journée.
+L812 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonne journée.
+L813 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour monsieur.
+L814 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, je voudrais quelque chose pour ma femme. Elle a pris froid et elle est enrhumée, elle tousse beaucoup, elle éternue et elle a mal à la gorge.
+L815 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Est-ce qu’elle a vu un médecin ?
+L816 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non, elle pense que c’est seulement un rhume.
+L817 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Elle n’a pas de fièvre ?
+L818 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Non.
+L819 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bien, on va lui donner un sirop pour la toux, des pastilles pour la gorge, de l’aspirine. Et si elle ne se sent pas mieux dans les quatre ou cinq jours, je lui conseille quand même d’aller voir un médecin.
+L820 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, monsieur.
+L821 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, monsieur, vous désirez ?
+L822 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ J’ai mal à l’estomac depuis ce matin. Est-ce que vous auriez quelque chose pour calmer les maux d’estomac ?
+L823 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, j’ai ça. C’est très efficace. Vous en prenez un après les repas.
+L824 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Très bien.
+L825 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ 15 euros monsieur.
+L826 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Voilà, monsieur.
+L827 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci monsieur. Au revoir.
+L828 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Au revoir, bonne journée.
+L829 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour.
+L830 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Bonjour, qu’est-ce qu’il vous faudra ?
+L831 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais prendre un beau poulet.
+L832 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vous mets un poulet fermier ?
+L833 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Euh, c’est quoi la différence avec le poulet de Bresse ?
+L834 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Le poulet de Bresse ? Mais c’est la Rolls des poulets ! C’est élevé en plein air. L’élevage se fait en quatre mois, sans antibiotique... il n’y a rien de comparable. En plus, ils ont été nourris avec du maïs, du blé et du lait. Tout est bio garanti sans OGM !
+L835 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Et ça se ressent au niveau du goût ?
+L836 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Oui, la chair est plus ferme, les os sont bien durs, c’est incomparable. Regardez son oeil... Il est complètement noir !
+L837 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Il est à combien ?
+L838 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Alors, celui-là, il fait 39 euros...
+L839 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Je vais en prendre un.
+L840 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous ne le regretterez pas.
+L841 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Pour la cuisson, je fais comment ?
+L842 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Vous le mettez au four pendant une heure et demie. 200 degrés, vous l’enfournez à froid, vous l’arrosez d’un verre d’eau toutes les 20 minutes et vous le retournez trois fois. Vous restez à côté du four pour surveiller la cuisson.
+L843 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ D’accord...
+L844 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Avec des pommes de terre nouvelles et des petits oignons, c’est divin. Voilà, madame. 40 et 10 qui font 50.
+L845 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ Merci.
+L846 +++$+++ u0 +++$+++ m0 +++$+++ N/A +++$+++ C’est moi ! Bonne journée !
+
